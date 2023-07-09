@@ -278,7 +278,9 @@ grandes telas: acima de 1200px
   }
 
   .search-box{ 
+    display: flex;
     margin-top: 15%;
+    margin-left:10%;
   }
 
   #footer_content{
