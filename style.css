@@ -281,6 +281,7 @@ grandes telas: acima de 1200px
     display: flex;
     margin-top: 15%;
     margin-left:10%;
+    background-color: blue;
   }
 
   #footer_content{
